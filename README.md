@@ -1,6 +1,9 @@
 # resume match (WIP)
 
-The frontend for [ResumeMatch](https://resume.adbid.ink/), a Web App allowing you to see if resume fits job decscription. Uses Groq AI (free tier) to analyze resume with limited token usage. Used rate limiting to limit amount to analysis user can do. TypeScript React frontend with Python [backend](https://github.com/abidski/resume-match-backend).
+The frontend for ResumeMatch, a Web App allowing you to see if resume fits job decscription. Uses Groq AI (free tier) to analyze resume with limited token usage. Used rate limiting to limit amount to analysis user can do. TypeScript React frontend with Python [backend](https://github.com/abidski/resume-match-backend).
+
+
+https://github.com/user-attachments/assets/12660c45-80aa-4368-9461-07391d691bdd
 
 
 ## How it works:
